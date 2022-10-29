@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WouuYoauin
-- 👀 I’m interested in NLP and novel components.
+- 👀 I’m interested in NLP and amusing components.
 - 🌱 I’m currently learning NLP and other coding skills.
 - 📫 Email:johnhart1352@gmail.com
 
